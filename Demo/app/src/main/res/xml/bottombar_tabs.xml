@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        title="home" />
+    <tab
+        id="@+id/tab_music"
+        icon="@drawable/ic_music_note_black_24dp"
+        title="music" />
+    ic_video_library_black_24dp
+    <tab
+        id="@+id/tab_camera"
+        icon="@drawable/ic_camera_black_24dp"
+        title="camera" />
+    <tab
+        id="@+id/tab_video"
+        icon="@drawable/ic_video_library_black_24dp"
+        title="video" />
+</tabs>
